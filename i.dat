@@ -1,0 +1,5 @@
+read a, b
+if (a > b)
+    write a
+else
+    write b
